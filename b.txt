@@ -4,4 +4,4 @@ rollno name dept cgpa age year
 3 janu cse 7.8 23 1
 4 mani IT 8.2 23 2
 5 robby cse 6.9 24  2
-
+6 sony IT 9.5 23 1
